@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Armazenador
+comment0.text=\r\n\ Generaliza\u00E7\u00E3o\ dos\ cadastros.\r\n\ \r\n\ @author\ Lucas\ Graziano\ |\ Julio\ Cesar\ |\ Gustavo\ Scacchetti\r\n\ @version\ 01/06/2022\r\n
+comment1.params=
+comment1.target=Armazenador()
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Cadastro\r\n
+comment2.params=aluno
+comment2.target=void\ inserir(Model.Aluno)
+comment3.params=ra
+comment3.target=void\ remover(java.lang.String)
+comment4.params=
+comment4.target=void\ listar()
+comment5.params=pw
+comment5.target=void\ gravar(java.io.PrintWriter)
+numComments=6

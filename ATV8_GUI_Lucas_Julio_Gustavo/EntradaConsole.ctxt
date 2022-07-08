@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=EntradaConsole
+comment0.text=\r\n\ Entrada\ em\ console.\r\n\ \r\n\ @author\ Lucas\ Graziano\ |\ Julio\ Cesar\ |\ Gustavo\ Scacchetti\r\n\ @version\ 01/06/2022\r\n
+comment1.params=
+comment1.target=java.lang.String\ lerNome()
+comment2.params=
+comment2.target=int\ lerIdade()
+comment3.params=
+comment3.target=java.lang.String\ lerRa()
+comment4.params=
+comment4.target=java.lang.String\ lerCurso()
+comment5.params=
+comment5.target=float\ lerNota()
+comment6.params=
+comment6.target=Model.Aluno\ criarAluno()
+numComments=7

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ArquivoBinario
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ArquivoBinario\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=ArquivoBinario()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ArquivoBinario\r\n
+comment2.params=cad
+comment2.target=void\ gravarObj(Cadastro)
+comment3.params=cad
+comment3.target=java.lang.Object\ lerObj(Cadastro)
+comment3.text=\r\n\ Method\ lerObj\r\n\r\n\ @param\ nomeArq\ nome\ do\ arquivo\ a\ ser\ lido\r\n\ @return\ Object\ o\ objeto\ lido\r\n
+numComments=4

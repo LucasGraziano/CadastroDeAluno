@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=RemoverGUI
+comment0.text=\r\n\ Remo\u00E7\u00E3o\ de\ Aluno\ em\ GUI.\r\n\ \r\n\ @author\ Lucas\ Graziano\ |\ Julio\ Cesar\ |\ Gustavo\ Scacchetti\r\n\ @version\ 01/06/2022\r\n
+comment1.params=
+comment1.target=RemoverGUI()
+comment1.text=\r\n\ M\u00E9todo\ removerRA\ -\ remove\ o\ aluno\ pelo\ RA\r\n\ \ \r\n\ @return\ retorna\ o\ RA\ pedido\ para\ ser\ removido\r\n
+comment2.params=ae
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=java.lang.String\ lerRA()
+numComments=4

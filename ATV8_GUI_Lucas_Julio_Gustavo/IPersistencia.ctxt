@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=IPersistencia
+comment0.text=\r\n\ Interface\ da\ persist\u00EAncia\ em\ arquivo\r\n\ \r\n\ @author\ Lucas\ Graziano\ |\ Julio\ Cesar\ |\ Gustavo\ Scacchetti\r\n\ @version\ 01/06/2022\r\n
+comment1.params=cad
+comment1.target=void\ gravarArquivo(Cadastro)
+comment2.params=cad
+comment2.target=void\ lerArquivo(Cadastro)
+numComments=3

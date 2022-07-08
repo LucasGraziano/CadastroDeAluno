@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=DadosIncorretosException
+comment0.text=\r\n\ Exce\u00E7\u00E3o\ de\ dados\ incorretos\ \r\n\ \r\n\ @author\ Lucas\ Graziano\ |\ Julio\ Cesar\ |\ Gustavo\ Scacchetti\r\n\ @version\ 01/06/2022\r\n
+comment1.params=
+comment1.target=DadosIncorretosException()
+comment2.params=msg
+comment2.target=DadosIncorretosException(java.lang.String)
+numComments=3
